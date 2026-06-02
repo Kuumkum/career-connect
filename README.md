@@ -1,6 +1,6 @@
 # Career Connect
 
-A MERN Stack job portal application developed and customized by Khusi Sharma.
+A MERN Stack job portal application developed and customized by Kumkum Sharma.
 
 ## Features
 - User Authentication
